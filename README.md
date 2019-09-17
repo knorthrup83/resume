@@ -31,9 +31,10 @@ Professional Experience
 Education
 ---
 
-University of Arizona Coding Bootcamp  
-Projected completion: November 2019
+**University of Arizona Coding Bootcamp**  
+Projected completion: November 2019  
+Studied Ruby on Rails, JavaScript, HTML, and CSS
 
-Arizona State University  /  BA, Liberal Studies  
+**Arizona State University  /  BA, Liberal Studies**  
 Graduated 2015 Summa Cum Laude, GPA 3.92  
 Member of Phi Theta Kappa Honor Society
