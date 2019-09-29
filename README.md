@@ -44,5 +44,5 @@ _Projected completion: November 2019_
 - An intensive 24-week long program dedicated to designing and building web applications. Skills learned include HTML5, CSS3, Bootstrap, Ruby, Ruby on Rails, Postgresql, JavaScript, JQuery, and ReactJS.
 
 #### Arizona State University  /  BA, Liberal Studies  
-Graduated 2015 Summa Cum Laude, GPA 3.92  
-Member of Phi Theta Kappa Honor Society
+- Graduated 2015 Summa Cum Laude, GPA 3.92  
+- Member of Phi Theta Kappa Honor Society
