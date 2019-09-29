@@ -2,6 +2,17 @@ Kevin Northrup
 480-216-5186  
 knorthrup83@gmail.com  
 
+Education
+---
+
+**University of Arizona Coding Bootcamp**  
+Projected completion: November 2019  
+Ruby on Rails, JavaScript, React, HTML, and CSS
+
+**Arizona State University  /  BA, Liberal Studies**  
+Graduated 2015 Summa Cum Laude, GPA 3.92  
+Member of Phi Theta Kappa Honor Society
+
 Professional Experience
 ---
 
@@ -26,15 +37,3 @@ Professional Experience
   - Coordinated production for all projects
   - Scheduled appointments with customers / businesses
   - Set up and maintained business hardware and software
-
-
-Education
----
-
-**University of Arizona Coding Bootcamp**  
-Projected completion: November 2019  
-Studied Ruby on Rails, JavaScript, HTML, and CSS
-
-**Arizona State University  /  BA, Liberal Studies**  
-Graduated 2015 Summa Cum Laude, GPA 3.92  
-Member of Phi Theta Kappa Honor Society
