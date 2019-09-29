@@ -1,6 +1,6 @@
 Kevin Northrup
 ---
-(480)216-5186  
+(480) 216-5186  
 knorthrup83@gmail.com  
 
 Technical Skills
