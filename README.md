@@ -3,13 +3,17 @@ Kevin Northrup
 (480) 216-5186  
 knorthrup83@gmail.com  
 
+&nbsp;  
+
 ### Technical Skills
 ---
 
 **Beginner-level skills in the following areas:**  
 **Languages:** Ruby, Ruby on Rails, JavaScript  
 **Cloud Services:** Heroku, AWS  
-**Web:** ReactJS, JSON, JQuery
+**Web:** ReactJS, JSON, JQuery  
+
+&nbsp;  
 
 ### Professional Experience
 ---
@@ -34,7 +38,9 @@ knorthrup83@gmail.com
   - Drafted all business contracts and documents
   - Coordinated production for all projects
   - Scheduled appointments with customers / businesses
-  - Set up and maintained business hardware and software
+  - Set up and maintained business hardware and software  
+  
+&nbsp;  
 
 ### Education
 ---
