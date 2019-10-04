@@ -8,8 +8,8 @@ knorthrup83@gmail.com
 ### Technical Skills
 ---
 
-**Beginner-level skills in the following areas:**  
-**Languages:** Ruby, Ruby on Rails, JavaScript  
+**Newly-developed skills in the following areas:**  
+**Languages:** Ruby, Ruby on Rails, JavaScript, HTML5, CSS3  
 **Cloud Services:** Heroku, AWS  
 **Web:** ReactJS, JSON, JQuery  
 
