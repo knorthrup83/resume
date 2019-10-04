@@ -9,9 +9,9 @@ knorthrup83@gmail.com
 ---
 
 **Newly-developed skills in the following areas:**  
-**Languages:** Ruby, Ruby on Rails, JavaScript, HTML5, CSS3  
+**Languages:** HTML5, CSS3, Ruby, JavaScript  
 **Cloud Services:** Heroku, AWS  
-**Web:** ReactJS, JSON, JQuery  
+**Web:** ReactJS, JSON, JQuery, Ruby on Rails  
 
 &nbsp;  
 
